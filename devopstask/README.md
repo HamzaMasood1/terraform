@@ -11,7 +11,7 @@ This Reposiory contains terraform modules and resources code to provision follow
  
  ## Architecture diagram: ##
  
-![Image of Architecture](https://github.com/HamzaMasood1/devopstask/blob/develop/architecture%20diagram.PNG)
+![Image of Architecture](https://github.com/HamzaMasood1/terraform/blob/main/devopstask/architecture%20diagram.PNG)
 
 ## Description about the Module: ##
         This module has created to provision single RHEL or centos Ec2 instance mounted with external storage S3 bucket with secure manner on your own VPC and subnet.Also this code can be reusable on any environment to provision mentioned aws resources.
